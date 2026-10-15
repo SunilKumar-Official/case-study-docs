@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+# local-only: the list of terms that must never appear in these docs
+.banned-terms
