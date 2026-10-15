@@ -14,7 +14,7 @@ Every team calculated performance differently. Some used weighted models, some u
 
 I designed one Combined Performance Score (CPS) method that works the same way for every role, agreed the weightings with each department's stakeholders, and built the pipeline that runs it.
 
-- 100+ KPI metrics defined; each role has five core KPIs plus three gateway metrics.
+- 100+ KPI metrics defined; each role has a set of core KPIs (the number varies by team) plus three gateway metrics.
 - Every KPI is converted to an achievement percentage (target against actual), multiplied by its weight, and summed into one score per person.
 - Gateway metrics decide incentive eligibility without changing the score, so measuring performance and qualifying for an incentive stay separate.
 - People are then stack-ranked within their department, split into gateway-qualified and not.
