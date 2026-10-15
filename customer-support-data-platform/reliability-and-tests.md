@@ -39,7 +39,7 @@ The rollout was staged: run history first with no visible change, then the watch
 
 ## Tests
 
-The automated suite is roughly 340 tests (counts below are approximate, taken from the test definitions). It covers every stage and the shared package.
+The automated suite has several hundred tests (the per-area counts below are approximate, taken from the test definitions). It covers every stage and the shared package.
 
 | Area | Roughly | What it protects |
 |---|---|---|
